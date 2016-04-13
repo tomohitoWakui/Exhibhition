@@ -4,6 +4,10 @@
 
 <img src="http://i.imgur.com/CyMIXkk.jpg" alt="ppp" title="zzz">
 
+#Profile
+
+http://matome.naver.jp/odai/2146052670255130301
+
 #Statement
 
 http://ameblo.jp/tomohito-wakui/
