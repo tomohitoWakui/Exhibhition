@@ -16,4 +16,4 @@ http://ameblo.jp/tomohito-wakui/
 
 at Kouenji XXXX
 
-<img src="http://imgur.com/LXQTPji" alt="aaa" title="bbb">
+<img src="http://i.imgur.com/LXQTPji.jpg" alt="ppp" title="zzz">
