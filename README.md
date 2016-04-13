@@ -21,3 +21,11 @@ http://ameblo.jp/tomohito-wakui/
 at Kouenji XXXX
 
 <img src="http://i.imgur.com/LXQTPji.jpg" alt="ppp" title="zzz">
+
+# more Detail
+
+http://chimpom.jp/artistrunspace/sonosion.html
+
+
+© 2016 tomohito wakui
+
