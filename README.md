@@ -20,8 +20,6 @@ http://ameblo.jp/tomohito-wakui/
 
 https://www.google.co.jp/maps/place/%E3%82%AD%E3%82%BF%E3%82%B3%E3%83%AC%E3%83%93%E3%83%AB/@35.7063879,139.6448632,17z/data=!3m1!4b1!4m2!3m1!1s0x6018f27c3ac81707:0xab2b3deba2997285
 
-<img src="http://i.imgur.com/LXQTPji.jpg" alt="ppp" title="zzz">
-
 # more Detail
 
 http://chimpom.jp/artistrunspace/sonosion.html
