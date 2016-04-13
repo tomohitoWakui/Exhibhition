@@ -2,9 +2,8 @@
 
 涌井智仁：個展「Long,Long,Long」
 
-{}(http://i.imgur.com/CyMIXkk.jpg)
+<img src="http://i.imgur.com/CyMIXkk.jpg" alt="ppp" title="zzz">
 
+20160507-2016XXXX
 
-2016年5月7日-X月X日
-
-at 高円寺
+at Kouenji
