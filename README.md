@@ -31,9 +31,3 @@ https://github.com/tomohitoWakui/Exhibhition/issues/1
 
 
 © 2016 tomohito wakui
-/*
-
-
-
-*/
-
