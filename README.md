@@ -27,9 +27,5 @@ https://www.google.co.jp/maps/place/%E3%82%AD%E3%82%BF%E3%82%B3%E3%83%AC%E3%83%9
 http://chimpom.jp/artistrunspace/sonosion.html
 
 
-# art works
-
-https://github.com/tomohitoWakui/Exhibhition/issues/1
-
 
 © 2016 tomohito wakui
