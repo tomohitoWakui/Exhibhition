@@ -16,7 +16,7 @@ http://ameblo.jp/tomohito-wakui/
 
 # Date
 
-http://www.mediafire.com/download/80n9re3f0yz7w2d/date.txt
+http://i.imgur.com/0DPqMfi.png
 
 # Place
 
