@@ -2,6 +2,8 @@
 
 涌井智仁：個展「Long,Long,Long」
 
+https://www.youtube.com/watch?v=qkmrjrfitBo
+
 <img src="http://i.imgur.com/CyMIXkk.jpg" alt="ppp" title="zzz">
 
 #Profile
