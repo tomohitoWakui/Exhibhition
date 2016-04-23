@@ -16,7 +16,7 @@ http://ameblo.jp/tomohito-wakui/
 
 # Date
 
-https://calendar.google.com/calendar/render?hl=ja&pli=1#main_7%7Cmonth-3+23705+23749+23713
+https://www.expedia.co.jp/Flights-Search?trip=roundtrip&leg1=from:%E3%82%B0%E3%82%A2%E3%83%A0,to:%E3%83%9B%E3%83%8E%E3%83%AB%E3%83%AB,departure:2016/05/07TANYT&leg2=from:%E3%83%9B%E3%83%8E%E3%83%AB%E3%83%AB,to:%E3%82%B0%E3%82%A2%E3%83%A0,departure:2016/06/05TANYT&passengers=children:0,adults:1,seniors:0,infantinlap:Y&mode=search
 
 # Place
 
