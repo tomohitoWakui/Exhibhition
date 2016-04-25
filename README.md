@@ -24,7 +24,7 @@ https://www.google.co.jp/maps/place/%E3%82%AD%E3%82%BF%E3%82%B3%E3%83%AC%E3%83%9
 
 # Detail
 
-http://chimpom.jp/artistrunspace/sonosion.html
+http://chimpom.jp/artistrunspace/
 
 # more Information
 
